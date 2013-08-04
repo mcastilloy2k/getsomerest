@@ -3,7 +3,7 @@ getsomerest
 
 Example source code for the article "RESTful Java Web Services with NetBeans, Jersey and Tomcat"
 
-BUILD
+Build
 =====
 
 1. Configure NetBeans and Tomcat according to my blog article.
